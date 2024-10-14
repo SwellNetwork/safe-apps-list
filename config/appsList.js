@@ -208,6 +208,11 @@ const safeAppsConfig = [
     url: `https://app.zerion.io`,
     networks: [ETHEREUM_NETWORK.MAINNET],
   },
+  // Swell
+  {
+    url: `https://app.swellnetwork.io`,
+    networks: [ETHEREUM_NETWORK.MAINNET],
+  },
 ]
 
 module.exports = safeAppsConfig
